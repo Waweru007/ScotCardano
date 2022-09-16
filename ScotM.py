@@ -164,7 +164,7 @@ print(lst_output)
 
 ######7
 day_new=np.arange(1,101)
-day_pred=np.arange(101,109)
+day_pred=np.arange(101,102)
 
 
 # In[ ]:
