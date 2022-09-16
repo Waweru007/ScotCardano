@@ -3,6 +3,9 @@
 
 # In[ ]:
 
+import streamlit as st
+st.header("CARDANO PRICE MODELING")
+
 
 #Install the dependencies
 import numpy as np
